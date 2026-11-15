@@ -1,0 +1,27 @@
+{
+  "name": "aegiscare-elderly-platform",
+  "version": "1.0.0",
+  "description": "Production-grade Elderly Care and Medication Management Platform with Dynamic Schema Engine for Hackathon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "elderly-care",
+    "medication-management",
+    "healthcare",
+    "hackathon",
+    "cloud-run",
+    "dynamic-schema"
+  ],
+  "author": "AegisCare Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
